@@ -16,8 +16,8 @@ nav li {
 a{
 		text-decoration: none;
 	}
-	article{
-		font-family: 'Roboto Condensed', sans-serif;
+article{
+		font-family: 'Open Sans', sans-serif;
 	}
 
 aside{
@@ -25,44 +25,47 @@ aside{
 
 		background-color: green;
 	}
-	p{
+p{
 		text-align: center;
 		font-size: 40px
 	}
-h{
+h1{
 		text-align: center;
 
 	}
-	footer p{
+footer p{
 		font-size: 20px;
 		float: right;
 		
 		color: white;
 	}
-	section {
+section {
 		background-color:black;
 	}
-	footer ul{
+footer ul{
 		float: left;
 	}
-	footer{
-		font-family: 'Lobster Two', cursive;
+footer{
+		font-family: 'Alex Brush', cursive;
 
 
 	}
-	header{
+header{
 		position: fixed;
 		margin: auto;
 		
 		padding-left:300px;
 	}
-#icon{
+.icon{
 	float: right;
    color: white;
-  padding-right: 20px;
+  padding-left:  40px;
+  height: 40px;
+  font-size: 25px;
 }
 i:hover{
 	font-size: 30px;
+	color: blue;
 }
 
 
