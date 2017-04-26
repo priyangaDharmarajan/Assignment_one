@@ -64,6 +64,9 @@ footer li{
 	align-content: center;
 
 }
+h2{
+	text-align: center;
+}
 i:hover{
 	font-size: 40px;
 	color: #0000FF;
