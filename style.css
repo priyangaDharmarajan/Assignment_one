@@ -6,7 +6,6 @@ header{
    
 
 }
-
 header li{
 	display: inline;
     text-decoration: none;
@@ -66,8 +65,4 @@ footer li{
 }
 h2{
 	text-align: center;
-}
-i:hover{
-	font-size: 40px;
-	color: #0000FF;
 }
