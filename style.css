@@ -1,11 +1,10 @@
-header>section{
+header{
 	background-color: #81AE40;
 	color: white;
    font-family: 'Merriweather', serif;
    position: fixed;
-   
-
 }
+
 header li{
 	display: inline;
     text-decoration: none;
